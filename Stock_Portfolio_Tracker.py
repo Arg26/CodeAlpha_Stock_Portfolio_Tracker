@@ -1,6 +1,6 @@
 import csv
 
-# Hardcoded stock prices (can be updated)
+# Hardcoded stock prices (can be refreshed)
 stock_prices = {
     "AAPL": 180,
     "TSLA": 250,
